@@ -9,6 +9,5 @@
 !
 ||ggpolarbear.com^
 ||freefiremobile.com^
-||garena.com^
 ||freefiremobile.com^
-
+||garena.com^
