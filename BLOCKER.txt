@@ -1,2 +1,10 @@
+!
+! Title: FREE FIRE GAME Blocker
+! Description: Blocks FREE FIRE GAME from your Home.
+! Version: Beta
+! Homepage: https://github.com/i-am-ongkur/Free_Fire-Block
+!
+! Compiled by @i-am-ongkur
+!
 ||ggpolarbear.com^
 ||freefiremobile.com^
