@@ -55,12 +55,6 @@ You can update the list if new domains need blocking.
 
 ---
 
-## 📜 License
-
-This project is provided “as-is”. You can use or modify this list personally. There is **no warranty** that it will always work or block every connection.
-
----
-
 ## ❓ Support
 
 If you find any Free Fire domains not blocked, feel free to open an issue or create a pull request with the new domain entries.
