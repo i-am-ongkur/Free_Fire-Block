@@ -7,7 +7,14 @@
 ! Compiled by @i-am-ongkur
 !
 !
-||ggpolarbear.com^
-||freefiremobile.com^
 ||garena.com^
+||freefiremobile.com^
+||freefiremobile-a.akamaihd.net^
+||dl.garenanow.com^
+||gcloudcs.com^
+||gxx.garenanow.com^
+||dl.dir.freefiremobile.com^
+||game.ff.garena.com^
+
+
 
